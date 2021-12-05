@@ -1,6 +1,6 @@
 {
   "name": "phone-formatter-kyrgyz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Format a phone number input while typing in Form input",
   "main": "src/index.js",
   "bin": "src/index.js",
