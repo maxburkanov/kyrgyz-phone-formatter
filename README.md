@@ -26,5 +26,5 @@ const onChange = (e) => {
 ```
 
 ```jsx
-<input onChange={onChange} value={input}>
+<input onChange={onChange} value={input}> // 0555555555 -> (0555) 55-55-55
 ```

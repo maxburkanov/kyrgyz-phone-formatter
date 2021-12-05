@@ -8,9 +8,9 @@ export const formatNumber = (value: string): string => {
   const last = input.substring(8, 10);
 
   if (input.length > 8) {
-    return `(${areaCode}) ${start} - ${mid} - ${last}`;
+    return `(${areaCode}) ${start}-${mid}-${last}`;
   } else if (input.length > 6) {
-    return `(${areaCode}) ${start} - ${mid}`;
+    return `(${areaCode}) ${start}-${mid}`;
   } else if (input.length > 4) {
     return `(${areaCode}) ${start}`;
   } else if (input.length > 0) {
