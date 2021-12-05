@@ -1,7 +1,7 @@
 {
   "name": "phone-formatter-kyrgyz",
-  "version": "1.0.2",
-  "description": "Format a phone number input while typing in Form input",
+  "version": "1.0.4",
+  "description": "Format a phone number while typing in Form input",
   "main": "src/index.ts",
   "bin": "src/index.ts",
   "repository": {
