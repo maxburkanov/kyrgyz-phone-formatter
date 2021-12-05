@@ -2,11 +2,8 @@
   "name": "phone-formatter-kyrgyz",
   "version": "1.0.0",
   "description": "Format a phone number input while typing in Form input",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
-  "files": [
-    "/dist"
-  ],
+  "main": "src/index.js",
+  "bin": "src/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/maxburkanov/kyrgyz-phone-formatter.git"
